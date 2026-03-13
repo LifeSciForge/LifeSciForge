@@ -33,7 +33,7 @@ Every repo here is a production-grade tool I've built and used. Sanitised, docum
 
 ---
 
-## 🗂️ Portfolio — 10 Projects → 50 LPA
+## 🗂️ Project Portfolio
 
 ### ✅ Phase 1 — Foundation
 | # | Project | Stack | Status |
