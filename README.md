@@ -39,7 +39,7 @@ Every repo here is a production-grade tool I've built and used. Sanitised, docum
 | # | Project | Stack | Status |
 |---|---|---|---|
 | 01 | [Email Outreach Automation](https://github.com/LifeSciForge/Email_Outreach) | n8n · Gmail · Google Sheets | ✅ Live |
-| 02 | LinkedIn Outreach with AI Personalisation | n8n · Claude API · HubSpot | 🔄 Building |
+| 02 | [LinkedIn Outreach with AI Personalisation](https://github.com/LifeSciForge/LinkedIn_Outreach) | n8n · Claude API · Browserflow · Google Sheets | ✅ Live |
 
 ### 🔲 Phase 2 — Competitive Intelligence & Research AI
 | # | Project | Stack | Status |
