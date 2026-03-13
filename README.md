@@ -113,11 +113,9 @@ AI & Automation Engineering   ████████░░░░░░░░�
 
 ## 🎯 Target roles
 
-Actively building toward AI and automation roles at:
+Actively building toward AI and automation roles at LifeSciences, Biotech and Pharma
 
-**Deloitte Life Sciences** · **ZS Associates** · **IQVIA** · **AWS Healthcare** · **Salesforce Health Cloud** · **Pharma AI Startups**
-
-Salary target: ₹50–70 LPA · Available: Q2 2026
+Available to join: Q2 2026
 
 ---
 
