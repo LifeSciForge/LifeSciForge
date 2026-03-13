@@ -1,28 +1,28 @@
 # Hi, I'm Pranjal Das 👋
 
-**Marketing & GTM Leader · Life Sciences AI Builder · Bengaluru, India**
+**Life Sciences professional turned AI builder · Bengaluru, India**
 
-11+ years driving revenue in life sciences, healthcare, and enterprise technology — across pharma, biotech, CRO, and clinical research. Now building AI and automation tools that do what I've done manually for a decade: competitive intelligence, outbound campaigns, account research, and GTM execution — at scale, with zero human bottlenecks.
+I spent 11 years in pharma and life sciences — doing competitive intelligence, GTM strategy, HEOR, market access, and revenue operations the hard way. Manually. With spreadsheets, slide decks, and a lot of late nights.
 
-Every repo here is a production-grade tool I've built and used. Sanitised, documented, and ready to deploy.
+Now I'm rebuilding everything I used to do by hand — as AI-powered tools that run automatically. Every repo here is something I've actually built and used, not a tutorial project. Sanitised, documented, and ready to deploy.
 
 ---
 
-## 🏆 What I've delivered
+## 🏆 Things I've shipped that I'm proud of
 
-| Outcome | Context |
+| What | Where |
 |---|---|
-| **93 qualified meetings + $350K+ ARR** | AI-driven outbound systems at Pienomial |
-| **$2M+ pipeline in Year 1** | B2B AI product GTM launch |
-| **~60% reduction in effort/time** | Automation of customer workflows |
-| **+20% engagement, +15% acquisition** | ICP segmentation & sequencing at MMS Clinical Research |
-| **Innovation Award 2023** | CRM & reporting workflow improvements |
+| Built AI outbound systems that generated **93 qualified meetings + $350K+ ARR** | Pienomial |
+| Led GTM for a B2B AI product — contributed to **$2M+ pipeline in Year 1** | Pienomial |
+| Reduced customer workflow effort by **~60%** through automation | Pienomial |
+| Improved engagement by **+20%** and acquisition by **+15%** through ICP segmentation | MMS Clinical Research |
+| Won the **Innovation Award 2023** for CRM and reporting workflow improvements | MMS Clinical Research |
 
 ---
 
-## 🔬 What I build on GitHub
+## 🔬 What I'm building on GitHub
 
-| Area | Tools & Stack |
+| Area | Stack |
 |---|---|
 | Sales & Outreach Automation | n8n · Google Sheets · Gmail · LinkedIn · HubSpot |
 | Pharma Research Agents | ClinicalTrials.gov · PubMed · Claude API · Tavily |
@@ -33,7 +33,7 @@ Every repo here is a production-grade tool I've built and used. Sanitised, docum
 
 ---
 
-## 🗂️ Project Portfolio
+## 🗂️ Portfolio — 10 projects in progress
 
 ### ✅ Phase 1 — Foundation
 | # | Project | Stack | Status |
@@ -44,8 +44,8 @@ Every repo here is a production-grade tool I've built and used. Sanitised, docum
 ### 🔲 Phase 2 — Competitive Intelligence & Research AI
 | # | Project | Stack | Status |
 |---|---|---|---|
-| 03 | Pharma CI Research Agent | Python · ClinicalTrials.gov · PubMed · Claude API | 🔲 Upcoming |
-| 04 | Pharma Account Research Tool | Python · Tavily · FDA API · Streamlit | 🔲 Upcoming |
+| 03 | Pharma CI Research Agent | Python · ClinicalTrials.gov · PubMed · Claude API | 🔄 Building |
+| 04 | Pharma Account Research Tool | Python · Tavily · FDA API · Streamlit | 🔲 Up next |
 
 ### 🔲 Phase 3 — RAG & LLM Engineering
 | # | Project | Stack | Status |
@@ -67,7 +67,7 @@ Every repo here is a production-grade tool I've built and used. Sanitised, docum
 
 ---
 
-## 🧠 Domain expertise
+## 🧠 Where I come from
 
 ```
 Pharma & Life Sciences        ████████████████████  11 years
@@ -75,35 +75,35 @@ GTM & Demand Generation       ████████████████�
 Competitive Intelligence      ██████████████████░░   9 years
 HEOR & Market Access          █████████████████░░░   8 years
 CRM & Marketing Automation    ████████████████░░░░   7 years
-AI & Automation Engineering   ████████░░░░░░░░░░░░   2 years (building fast)
+AI & Automation Engineering   ████████░░░░░░░░░░░░   2 years · still building
 ```
 
 ---
 
-## 💼 Career snapshot
+## 💼 Where I've worked
 
-**Pienomial** — Manager, Customer Success (Product Marketing & Demand Generation) · *2025–Present*
-> Built AI-enabled outbound infrastructure generating 93 meetings and $350K+ ARR. Led GTM for AI SaaS platforms serving pharma and biotech clients across clinical trial intelligence, CI, and evidence generation.
+**Pienomial** · Manager, Customer Success — Product Marketing & Demand Generation · *2025–Present*
+> Building AI-enabled outbound systems and GTM programs for pharma and biotech clients. Products span clinical trial intelligence, competitive intelligence, and evidence generation.
 
-**MMS Clinical Research** — Sr. BD Specialist (Revenue Ops & Campaign Management) · *2019–2024*
-> Owned GTM execution across HubSpot, Dynamics 365, and LinkedIn. Built segmented campaign sequences, lead routing automation, and KPI dashboards. Supported ABM for Novartis, Pfizer, and Takeda. Won Innovation Award 2023.
+**MMS Clinical Research** · Sr. BD Specialist — Revenue Ops & Campaign Management · *2019–2024*
+> Ran GTM across HubSpot, Dynamics 365, and LinkedIn. Built lead automation, KPI dashboards, and ABM campaigns for accounts including Novartis, Pfizer, and Takeda. Innovation Award 2023.
 
-**Indegene** — Sr. Associate, Sales & Marketing · *2017–2019*
-> Supported commercialisation programs for healthcare and life sciences accounts.
+**Indegene** · Sr. Associate, Sales & Marketing · *2017–2019*
+> Commercialisation support for healthcare and life sciences clients.
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **PG in Data Science & Business Analytics** — Great Lakes & UT Austin (2024)
-- **Generative AI** — Great Lakes Executive Learning (2024)
-- **Google Data Analytics** — Coursera (2023)
-- **PG Diploma in Advanced Pharma Business Analytics** — Cliniminds (2022)
-- **MBA Marketing** — Gauhati University (2013)
+- **PG in Data Science & Business Analytics** — Great Lakes & UT Austin · 2024
+- **Generative AI** — Great Lakes Executive Learning · 2024
+- **Google Data Analytics** — Coursera · 2023
+- **PG Diploma in Advanced Pharma Business Analytics** — Cliniminds · 2022
+- **MBA Marketing** — Gauhati University · 2013
 
 ---
 
-## 🛠️ Full tools stack
+## 🛠️ Tools I actually use
 
 `n8n` `Claude API` `ChatGPT` `Perplexity` `LangChain` `LangGraph` `Python` `APIs` `Webhooks` `MCP`
 `HubSpot` `Dynamics 365` `Salesforce` `LinkedIn Campaign Manager` `Sales Navigator`
@@ -111,18 +111,9 @@ AI & Automation Engineering   ████████░░░░░░░░�
 
 ---
 
-## 🎯 Target roles
-
-Actively building toward AI and automation roles at LifeSciences, Biotech and Pharma
-
-Available to join: Q2 2026
-
----
-
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjal%20Das-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pranjal-das1)
-[![Email](https://img.shields.io/badge/Email-daspranjal.pd%40gmail.com-D14836?style=flat&logo=gmail)](mailto:daspranjal.pd@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-LifeSciForge-181717?style=flat&logo=github)](https://github.com/LifeSciForge)
 
 ---
