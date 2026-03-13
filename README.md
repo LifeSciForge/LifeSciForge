@@ -44,8 +44,8 @@ Now I'm rebuilding everything I used to do by hand — as AI-powered tools that 
 ### 🔲 Phase 2 — Competitive Intelligence & Research AI
 | # | Project | Stack | Status |
 |---|---|---|---|
-| 03 | Pharma CI Research Agent | Python · ClinicalTrials.gov · PubMed · Claude API | 🔄 Building |
-| 04 | Pharma Account Research Tool | Python · Tavily · FDA API · Streamlit | 🔲 Up next |
+| 03 | Clinical Evidence Research Assistant | Python · ClinicalTrials.gov · PubMed · Claude API | ✅ Live |
+| 04 | Pharma Account Research Tool | Python · Tavily · FDA API · Streamlit | 🔄 Up next |
 
 ### 🔲 Phase 3 — RAG & LLM Engineering
 | # | Project | Stack | Status |
