@@ -12,11 +12,10 @@ Now I'm rebuilding everything I used to do by hand — as AI-powered tools that 
 
 | What | Where |
 |---|---|
-| Built AI outbound systems that generated **93 qualified meetings + $350K+ ARR** | Pienomial |
-| Led GTM for a B2B AI product — contributed to **$2M+ pipeline in Year 1** | Pienomial |
-| Reduced customer workflow effort by **~60%** through automation | Pienomial |
-| Improved engagement by **+20%** and acquisition by **+15%** through ICP segmentation | MMS Clinical Research |
-| Won the **Innovation Award 2023** for CRM and reporting workflow improvements | MMS Clinical Research |
+| Led GTM for a B2B AI product — contributed to **$2M+ pipeline in Year 1** 
+| Reduced customer workflow effort by **~60%** through automation | 
+| Improved engagement by **+20%** and acquisition by **+15%** through ICP segmentation | 
+| Won the **Innovation Award 2023** for CRM and reporting workflow improvements | Clinical Research Organization|
 
 ---
 
@@ -44,8 +43,8 @@ Now I'm rebuilding everything I used to do by hand — as AI-powered tools that 
 ### 🔲 Phase 2 — Competitive Intelligence & Research AI
 | # | Project | Stack | Status |
 |---|---|---|---|
-| 03 | Clinical Evidence Research Assistant | Python · ClinicalTrials.gov · PubMed · Claude API | ✅ Live |
-| 04 | Pharma Account Research Tool | Python · Tavily · FDA API · Streamlit | 🔄 Up next |
+| 03 | [Clinical Evidence Research Assistant](https://clinical-evidence-assistant.streamlit.app) | Python · ClinicalTrials.gov · PubMed · Claude API | ✅ Live |
+| 04 | | 04 | MSL Account Intelligence Tool | Python · NPI Registry · ClinicalTrials.gov · Tavily · Claude API · Streamlit | ✅ Live |
 
 ### 🔲 Phase 3 — RAG & LLM Engineering
 | # | Project | Stack | Status |
