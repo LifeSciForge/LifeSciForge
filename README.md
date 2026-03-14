@@ -40,7 +40,7 @@ Now I'm rebuilding everything I used to do by hand — as AI-powered tools that 
 | 01 | [Email Outreach Automation](https://github.com/LifeSciForge/Email_Outreach) | n8n · Gmail · Google Sheets | ✅ Live |
 | 02 | [LinkedIn Outreach with AI Personalisation](https://github.com/LifeSciForge/LinkedIn_Outreach) | n8n · Claude API · Browserflow · Google Sheets | ✅ Live |
 
-### 🔲 Phase 2 — Competitive Intelligence & Research AI
+### ✅ Phase 2 — Competitive Intelligence & Research AI
 | # | Project | Stack | Status |
 |---|---|---|---|
 | 03 | [Clinical Evidence Research Assistant](https://clinical-evidence-assistant.streamlit.app) | Python · ClinicalTrials.gov · PubMed · Claude API | ✅ Live |
