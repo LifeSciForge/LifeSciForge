@@ -44,7 +44,7 @@ Now I'm rebuilding everything I used to do by hand — as AI-powered tools that 
 | # | Project | Stack | Status |
 |---|---|---|---|
 | 03 | [Clinical Evidence Research Assistant](https://clinical-evidence-assistant.streamlit.app) | Python · ClinicalTrials.gov · PubMed · Claude API | ✅ Live |
-| 04 | | 04 | MSL Account Intelligence Tool | Python · NPI Registry · ClinicalTrials.gov · Tavily · Claude API · Streamlit | ✅ Live |
+| 04 | [MSL Account Intelligence Tool](https://msl-account-intelligence.streamlit.app) | Python · NPI Registry · ClinicalTrials.gov · Tavily · Claude API · Streamlit | ✅ Live |
 
 ### 🔲 Phase 3 — RAG & LLM Engineering
 | # | Project | Stack | Status |
