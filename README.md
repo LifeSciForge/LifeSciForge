@@ -56,7 +56,7 @@ Every project here solves a problem I encountered firsthand — in competitive i
 ## 🧠 Background
 
 Pharma & Life Sciences        ████████████████████  11 years
-GTM & Demand Generation       ███████████████████░  10 years
+Marketing                     ███████████████████░  10 years
 Competitive Intelligence      ██████████████████░░   9 years
 HEOR & Market Access          █████████████████░░░   8 years
 CRM & Marketing Automation    ████████████████░░░░   7 years
