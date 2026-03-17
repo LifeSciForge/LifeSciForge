@@ -37,7 +37,7 @@ Every project here solves a problem I encountered firsthand — in competitive i
 | # | Project | Stack | Status |
 |---|---|---|---|
 | 05 | [Pharma Document Intelligence](https://pharma-document-intelligence.streamlit.app) | Python · LangChain · FAISS · Claude API · Streamlit | ✅ Live |
-| 06 | Multi-Agent Pharma Intelligence System | LangGraph · Claude API · Streamlit | 🔄 Building |
+| 06 | [Drug Launch Intelligence Agent](https://drug-launch-intelligence.streamlit.app) | Python · LangGraph · LangChain · Claude API · Streamlit | ✅ Live |
 
 ### Phase 4 — Cloud & Analytics
 | # | Project | Stack | Status |
