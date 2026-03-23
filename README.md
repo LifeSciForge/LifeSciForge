@@ -73,7 +73,7 @@
 
 ---
 
-## 🚀 Current Projects (6/10 Complete)
+## 🚀 Current Projects
 
 | # | Project | Status | Tech Stack | Demo |
 |---|---------|--------|-----------|------|
